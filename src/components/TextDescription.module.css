@@ -1,0 +1,21 @@
+/* .container p::-webkit-scrollbar {
+  display: none;
+} */
+
+.container {
+  padding: 0.8rem;
+}
+
+.container h3 {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+.container p {
+  color: rgb(51, 51, 51);
+  font-style: italic;
+  margin-top: 0.5rem;
+  height: 20rem;
+  padding: 0.5rem;
+  overflow: scroll;
+}

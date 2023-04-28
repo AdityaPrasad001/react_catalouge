@@ -1,0 +1,14 @@
+.thumblin_container {
+  display: flex;
+  background-color: rgb(163, 163, 156);
+  overflow-y: scroll;
+}
+
+.thumblin_container img {
+  width: 8rem;
+  margin: 0.5rem;
+}
+
+.selected {
+  transform: scale(1.15);
+}
