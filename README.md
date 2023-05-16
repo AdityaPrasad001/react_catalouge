@@ -1,1 +1,1 @@
-site hoisted link: https://prasadwebapps-react-catalouge.netlify.app
+Netlify hoisted link: https://prasadwebapps-react-catalouge.netlify.app
